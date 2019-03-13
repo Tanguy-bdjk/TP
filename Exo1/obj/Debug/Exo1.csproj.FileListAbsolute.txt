@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\TP\Les TP\Exo1\bin\Debug\Exo1.exe.config
+C:\Users\Moi\Desktop\TP\Les TP\Exo1\bin\Debug\Exo1.exe
+C:\Users\Moi\Desktop\TP\Les TP\Exo1\bin\Debug\Exo1.pdb
+C:\Users\Moi\Desktop\TP\Les TP\Exo1\obj\Debug\Exo1.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\TP\Les TP\Exo1\obj\Debug\Exo1.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\TP\Les TP\Exo1\obj\Debug\Exo1.exe
+C:\Users\Moi\Desktop\TP\Les TP\Exo1\obj\Debug\Exo1.pdb
